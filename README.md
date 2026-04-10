@@ -1,1 +1,1 @@
-# Data-Mining-Project-Rubric
+# Data-Mining-Project
