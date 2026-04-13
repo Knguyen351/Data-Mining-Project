@@ -1,6 +1,6 @@
 # Data-Mining-Project
 
-## Dataset: Still working process because the server is down. The dataset would interest me because it has enough data for me to look through and work with it. 
+## Dataset: 🧠 Alzheimer's Disease Dataset 🧠. https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset The dataset would interest me because it has enough data for me to look through and work with it. 
 
 ## Problem Definition and Data Acquisition: Using the deatset to predict Alzheimer Disease
 
