@@ -14,21 +14,18 @@
 
 ## Updated Readme
 
-### 
+### Alzheimer’s Disease Prediction Overview
 
-Alzheimer’s Disease Prediction
-Overview
+## This project uses machine learning to predict Alzheimer’s disease based on patient health, lifestyle, demographic, and clinical data. The goal is to compare a full clinical model with an early-risk model and identify key predictive features.
 
-This project uses machine learning to predict Alzheimer’s disease based on patient health, lifestyle, demographic, and clinical data. The goal is to compare a full clinical model with an early-risk model and identify key predictive features.
-
-Dataset
+## Dataset
 2,149 patient records, 35 features
 No missing data
 Target: Diagnosis (0 = No, 1 = Yes)
 Class balance: ~65% No, ~35% Yes
 Models
 
-Random Forest Classifier
+## Random Forest Classifier
 
 Full Clinical Model
 Uses all features (including MMSE, ADL, Functional Assessment)
